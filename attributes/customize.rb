@@ -1,0 +1,1 @@
+normal.tz = 'Asia/Tokyo'
